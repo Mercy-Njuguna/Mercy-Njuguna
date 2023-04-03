@@ -1,16 +1,15 @@
-### Hi there 👋
+### **Hi there 👋, i am Mercy Njuguna ,a software developer based in Nairobi,Kenya**
+ 
 
 <!--
-**Mercy-Njuguna/Mercy-Njuguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working my way up *Data Science*
+- 🌱 I’m currently learning *Python*
+- 👯 I’m looking to collaborate on 
+- 🤔 I’m looking for help with *understanding C programming 🙂*
+- 📫 How to reach me: 📧 mercynjuguna751@gmail.com 
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: *I prefer Mango fruit over mango juice*
+💬 Will keep updating my bio as I learn,Cheers ![CheersSharzadKiadehGIF](https://user-images.githubusercontent.com/122865038/229457091-fec46bb3-3f03-4090-9f2a-0ec994f83850.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
